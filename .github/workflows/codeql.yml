@@ -2,7 +2,7 @@
 # to commit it to your repository.
 #
 # You may wish to alter this file to override the set of languages analyzed,
-# or to provide custom queries or build logic.
+https://developer.microsoft.com/en-us/graph/graph-explorer?request=me%2FcalendarView%2Fdelta%3Fstartdatetime%3D%7Bstart_datetime%7D%26enddatetime%3D%7Bend_datetime%7D&method=POST&version=beta&GraphUrl=https://graph.microsoft.com&headers=W3sibmFtZSI6IlByZWZlciIsInZhbHVlIjoib2RhdGEubWF4cGFnZXNpemU9MiJ9XQ==# or to provide custom queries or build logic.
 #
 # ******** NOTE ********
 # We have attempted to detect the languages in your repository. Please check
